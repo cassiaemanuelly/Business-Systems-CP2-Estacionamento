@@ -1,5 +1,6 @@
 📝 README - Checkpoint 2
-📚 Projeto Checkpoint 2
+
+📚 Projeto Estacionamento Checkpoint 2
 
 Este repositório contém os documentos desenvolvidos pela equipe para o Checkpoint 2, como parte das atividades acadêmicas da disciplina de Business Systems.
 
